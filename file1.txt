@@ -1,2 +1,3 @@
 My name is Abhishek it is my file
 Second line
+third line belongs to master branch
